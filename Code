@@ -5,8 +5,11 @@
 <meta charset="utf-8">
 <title>Tidalwave Art Studio</title>
 </head>
+
  <body>
-    <h1><img src="Tidalwave Logo.jpg" alt="logo"><br>Tidalwave Art Studio
+
+    <h1>
+        <img src="9827720.png" alt="logo" width="400px" height="400px"><br>Tidalwave Art Studio
     </h1>
 
     <h2>The Studio</h2>
@@ -23,5 +26,5 @@
     Monday through Friday 9am-7pm; Saturday through Sunday, 9pm-11am</p>
 
  </body>
-
+<h1 hidden The technology you use impresses no one, the experience you create with it is everything -Sean Gerety h1>
 </html>
