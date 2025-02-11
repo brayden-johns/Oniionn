@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Tidalwave Art Studio</title>
+</head>
+ <body>
+    <h1><img src="Tidalwave Logo.jpg" alt="logo"><br>Tidalwave Art Studio
+    </h1>
+
+    <h2>The Studio</h2>
+    <p>The Tidalwave Art Studio offers you all the tools and colors you could 
+        ask for to storm the canvas and complete your <em>masterpeice.</em></p>
+    
+    <h2>What We Offer</h2>
+    <p>Here at Tidalwave we want you have a splash of a time with all the 
+        tools, lessons, colors, and more. We offer many different types of 
+        painting lessons such as: watercolor, acrylic, and oil paintings.</p>
+    
+    <h2>Location and Hours</h2>
+    <p>Edmond, Oklahoma;<br>
+    Monday through Friday 9am-7pm; Saturday through Sunday, 9pm-11am</p>
+
+ </body>
+
+</html>
